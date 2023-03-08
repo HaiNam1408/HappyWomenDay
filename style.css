@@ -264,7 +264,7 @@ a:focus {
 	font-family: myFont;
     font-size: 10vw;
     margin: 10px 0;
-    line-height: 1;
+    line-height: 2;
     position: relative;
     text-align: center;
     display: flex;
